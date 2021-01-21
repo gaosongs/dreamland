@@ -1,5 +1,4 @@
-
->SSM 框架由 SpringMVC、Spring 和 Mybatis 三大开源框架整合而成，所以了解该框架需先从这三>个框架着手。
+> SSM 框架由 SpringMVC、Spring 和 Mybatis 三大开源框架整合而成，所以了解该框架需先从这三个框架着手。
 
 # Spring
 
@@ -21,7 +20,7 @@ Spring 是 2003 年兴起的一个轻量级的 Java 开发框架，由 Rod Johns
 
 Spring 框架是一个分层架构，它包含一系列的功能要素，被分为大约 20 个模块。这些模块分为 Core Container、Data  Access/Integration、Web、AOP、Aspects、Instrumentation 和 Test，如下图所示：
 
-![img](导读：为什么选择 SSM 框架开发项目.assets/65523ed0-5810-11e8-9b9e-f50395010225)
+![](导读：为什么选择 SSM 框架开发项目.assets/spring体系结构.png)
 
 核心容器（Core Container）包括 Core、Beans、Context、EL 模块。
 
@@ -122,7 +121,7 @@ SpringMVC 框架围绕 DispatcherServlet 这个核心展开，DispatcherServlet 
 
 其框架流程，如下图所示：
 
-![img](导读：为什么选择 SSM 框架开发项目.assets/faf7bc90-5814-11e8-b5f6-d9dd50ffd302)
+![](导读：为什么选择 SSM 框架开发项目.assets/mvc框架流程.png)
 
 接下来，我们对每一个子流程做下说明。
 
@@ -158,7 +157,7 @@ Mybatis 的前身是 iBatis，Apache 的一个开源项目，在 2010 年这个�
 
 整体架构如下图所示：
 
-![img](导读：为什么选择 SSM 框架开发项目.assets/565b29e0-5816-11e8-b5f6-d9dd50ffd302)
+![](导读：为什么选择 SSM 框架开发项目.assets/mybatis整体架构.png)
 
 接下来，对架构的主要部分做下说明：
 
@@ -193,4 +192,4 @@ Mybatis 的前身是 iBatis，Apache 的一个开源项目，在 2010 年这个�
 
 综上所述，在性能方面 SSM 框架要优于 SSH 框架，这也是越来越多互联网企业选择 SSM  框架的主要原因。而对于业务逻辑复杂，不太在乎执行效率的传统行业，一般会选择使用 SSH 框架。所以本达人课会选择 SSM  框架来开发，其中应用到的技术将适用于大部分的互联网企业。
 
-下一篇：[第01课：基础环境安装及 Maven 创建父子工程]
+下一篇：[第01课：基础环境安装及 Maven 创建父子工程](https://www.kancloud.cn/ryanjiena/dreamland/1124910)
