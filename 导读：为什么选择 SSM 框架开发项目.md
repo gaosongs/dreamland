@@ -1,23 +1,5 @@
-- [Spring](#Spring_5)
 
-- - [Spring 的体系结构](#Spring__21)
-  - [Spring 的三大核心](#Spring__35)
-
-- [SpringMVC](#SpringMVC_122)
-
-- - [SpringMVC 框架流程](#SpringMVC__130)
-
-- [Mybatis 介绍](#Mybatis__150)
-
-- - [Mybatis 特点](#Mybatis__156)
-  - [Mybatis 整体架构](#Mybatis__166)
-
-- [SSM 框架与 SSH 框架对比](#SSM__SSH__180)
-
-- - [SpringMVC 和 Struts2 比较](#SpringMVC__Struts2__186)
-  - [Mybatis 和 Hibernate 比较](#Mybatis__Hibernate__195)
-
-SSM 框架由 SpringMVC、Spring 和 Mybatis 三大开源框架整合而成，所以了解该框架需先从这三个框架着手。
+>SSM 框架由 SpringMVC、Spring 和 Mybatis 三大开源框架整合而成，所以了解该框架需先从这三>个框架着手。
 
 # Spring
 
@@ -211,4 +193,4 @@ Mybatis 的前身是 iBatis，Apache 的一个开源项目，在 2010 年这个�
 
 综上所述，在性能方面 SSM 框架要优于 SSH 框架，这也是越来越多互联网企业选择 SSM  框架的主要原因。而对于业务逻辑复杂，不太在乎执行效率的传统行业，一般会选择使用 SSH 框架。所以本达人课会选择 SSM  框架来开发，其中应用到的技术将适用于大部分的互联网企业。
 
-下一篇：[第01课：基础环境安装及 Maven 创建父子工程](https://www.kancloud.cn/ryanjiena/dreamland/1124910)
+下一篇：[第01课：基础环境安装及 Maven 创建父子工程]
